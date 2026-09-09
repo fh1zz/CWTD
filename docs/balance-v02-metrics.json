@@ -1,0 +1,3 @@
+{
+  "tower_defense": {"damage": 26, "fire_rate": 0.8695652174, "armor_reduction": 0.2307692308, "range_coverage_length": 0.8, "enemy_speed": 0.085, "enemy_hp": 100}
+}

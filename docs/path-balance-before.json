@@ -1,0 +1,11 @@
+{
+  "tower_defense": {
+    "damage": 26,
+    "fire_rate": 0.8695652173913044,
+    "armor_reduction": 0,
+    "range_coverage_length": 1.273910252105813,
+    "enemy_speed": 0.07225000000000001,
+    "enemy_hp": 45
+  },
+  "assumptions": "First-stage falcon on zero-based pad 8, first glade ordinary enemy, normal attacks only; excludes auto skills, target contention and discrete first-shot timing. Distance is core world units."
+}

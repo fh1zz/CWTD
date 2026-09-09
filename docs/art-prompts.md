@@ -1,0 +1,11 @@
+# 原创临时美术提示词
+
+使用内置 imagegen。整体方向来自用户指定的王国保卫战式手绘奇幻塔防气质，所有角色为原创占位设计。最终生成结果和导入位置在验证报告中登记。
+
+## units-atlas.png
+
+Use case: stylized-concept. Production game sprite atlas for an original hand-painted fantasy pet tower-defense game. EXACTLY 4 columns by 3 rows, 12 equally-sized cells, regular evenly spaced grid, each sprite isolated centered inside its own cell with generous transparent margins; no visible grid or labels. Genuine transparent alpha background, no checkerboard. Three-quarter top-down orthographic view, chunky charming storybook shapes, dark warm outlines, painterly 2D shading, warm upper-left lighting, consistent scale. Inspired by the readable hand-painted fantasy tower defense genre, not existing characters. Row1 left to right: golden feather falcon pet, adorable green leaf sprout creature, aqua otter with water bubbles, orange ember-tail fox. Row2: stout rock-shell tortoise, cream-colored small deer with glowing golden antlers, tiny purple dusk bat, hostile green jelly slime. Row3: small tusked dark boar enemy, hulking stone golem enemy, pearly speckled pet egg, ornate small wooden brass egg gacha dispenser. Single fully visible subject in each cell, no overlapping cells, no floor or scenery, no text, no logos, no numbers. Crisp charming silhouettes readable at 60 pixels high. Landscape 4:3 atlas.
+
+## forest-ground.png
+
+Use case: stylized-concept. A polished 2D hand-painted fantasy tower-defense battlefield background plate, orthographic three-quarter top down, widescreen 16:9. Lush emerald and moss-green enchanted woodland clearing under warm dappled morning light. The central 75 percent is a gently textured calm grassy meadow, intentionally open and readable to overlay gameplay roads and units. Outer borders have painterly rounded trees, ferns, mossy stones, roots, tiny amber flowers, carved ancient forest stones and a small turquoise stream only along the extreme right edge. Rich warm outlines, stylized chunky brushwork, inviting storybook forest similar to classic hand-painted tower-defense aesthetics. No characters, no animals, no towers, no winding road, no game HUD, no text, no signs, no interface. The center stays empty with subtle grass variation and no focal obstacle. Complete rectangular background plate, no transparency.

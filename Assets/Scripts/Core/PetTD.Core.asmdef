@@ -1,0 +1,7 @@
+{
+  "name": "PetTD.Core",
+  "rootNamespace": "PetTD",
+  "references": [],
+  "autoReferenced": true,
+  "noEngineReferences": true
+}

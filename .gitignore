@@ -1,0 +1,39 @@
+# Unity generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/MemoryCaptures/
+/Recordings/
+
+# IDE and machine-local state
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+.DS_Store
+Thumbs.db
+
+# Local verification, backups, saves and credentials
+*.log
+/docs/backups/
+/docs/verification-artifacts*/hidden-*.png
+td-qa.flag
+qa-*.png
+forestkeepers-profile*.json
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+
+# Keep Assets and their .meta files under version control.

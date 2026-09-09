@@ -1,0 +1,8 @@
+{
+  "name": "PetTD.Checks",
+  "rootNamespace": "PetTD",
+  "references": ["PetTD.Core"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true,
+  "noEngineReferences": true
+}
